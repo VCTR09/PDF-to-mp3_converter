@@ -119,5 +119,5 @@ root.mainloop()
 соответсвующее предупреждение.
 <img width="515" alt="screen4" src="https://user-images.githubusercontent.com/97599612/169635257-e642354e-b6e7-4d3b-8734-f171fdaedb05.png">
 
-* Готовый результат. Прослушивание оригинального .pdf файла.
+* Готовый результат. Оригинальный .pdf файл доступен для прослушивания в mp3 формате.
 <img width="681" alt="screen5" src="https://user-images.githubusercontent.com/97599612/169635260-08d3a777-4817-45ae-8601-20b720322bcf.png">
