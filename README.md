@@ -115,7 +115,7 @@ root.mainloop()
 <img width="770" alt="screen2" src="https://user-images.githubusercontent.com/97599612/169635254-932cdd14-bced-43c4-95bc-a49c194d3eaf.png">
 
 * При завершении процесса преобразования файла в mp3 формат, будет выведено соответствующее сообщение с названием файла и его расширением.
-<img width="519" alt="screen3" src="https://user-images.githubusercontent.com/97599612/169635256-4e927696-cb75-46ce-9364-1a2f2292fcfc.png">
+<img width="526" alt="screen3" src="https://user-images.githubusercontent.com/97599612/169639581-eedee8f3-1011-4e95-8db1-05cc722e30e9.png">
 
 * Если путь до файла введен с ошибкой, появится 
 соответсвующее предупреждение.
