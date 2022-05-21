@@ -106,7 +106,7 @@ root.mainloop()
 ```
 
 ### Скриншоты 
-* Главное окно программы.
+* Главное окно программы. Поле для ввода 'Enter a file's path' принимает полный путь до файла, поле 'Convert File' язык для воспроизведения.
 <img width="517" alt="screen1" src="https://user-images.githubusercontent.com/97599612/169635247-c34e5fb0-1dd4-4673-a6f9-32c14fa63ad6.png">
 
 
